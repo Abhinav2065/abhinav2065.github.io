@@ -14,7 +14,7 @@ const About = () => {
       <div className="about-wrapper">
         <div className="about-header scroll-el">
           <h2 style={{ fontWeight: "900" }}>
-            Deerwalk Hackathon <br className="response-break" /> 2025
+            DeerHack School Edition <br className="response-break" /> 2025
           </h2>
           <p>
             An immersive eight-hour sprint designed for{" "}
@@ -27,8 +27,7 @@ const About = () => {
           <article className="card about-card  scroll-el s00">
             <h3 style={{ fontWeight: "800" }}>About the Event</h3>
             <p>
-              Built exclusively for students in grades 9 through 12, Deerwalk
-              Hackathon 2025 invites teams of two to four innovators to tackle
+              Built exclusively for students in grades 9 through 12, DeerHack School Edition 2025 invites teams of two to four innovators to tackle
               real-world challenges in just one power-packed day. From ideation
               to prototype, our mentors and workshops keep every moment fueled
               with momentum and creativity.

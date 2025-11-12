@@ -59,7 +59,7 @@ const Navigation = () => {
           href="https://docs.google.com/forms/d/e/1FAIpQLSclTyGnwDLi_2dRVPwAueW8CFfFq_X7ca8ipHZFiYVu6txUew/viewform"
           className="nav fade-up-in s6"
         >
-          <button className="btn-alt">Register Now</button>
+          <button className="btn-alt">Apply Now</button>
         </a>
       </div>
     </header>
